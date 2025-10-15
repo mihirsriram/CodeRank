@@ -16,7 +16,8 @@ CodeRank enables:
 
 ## 🧩 System Architecture
 
-![System Architecture]
+![System Architecture] 
+(https://imgur.com/a/hvssAnC)
 
 
 
