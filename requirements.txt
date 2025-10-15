@@ -1,27 +1,17 @@
-# === Core Frameworks ===
+--upgrade pip
 langchain==0.3.2
 langchain-community==0.3.1
 langgraph==0.2.25
-streamlit==1.39.0
 fastapi==0.115.0
-uvicorn[standard]==0.30.6
+uvicorn==0.30.6
+streamlit==1.39.0
 python-dotenv==1.0.1
 pydantic==2.9.2
 requests==2.32.3
-
-# === Database / AstraDB ===
 astrapy==1.5.2
 cassio==0.1.7
-
-# === ML / Reranker / NLP ===
 sentence-transformers==3.0.1
 torch==2.3.0
 pandas==2.2.2
-scipy==1.13.1          
-numpy>=1.26.0          
-tqdm>=4.66.0           # Progress bar for fine-tuning
-transformers>=4.40.0   # Ensures model loading compatibility
-huggingface-hub>=0.23.0 # Required by sentence-transformers
-
-# === Optional / Utils ===
-typing-extensions>=4.9.0
+numpy==1.26.4
+scipy==1.12.0
