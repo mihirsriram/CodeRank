@@ -16,7 +16,7 @@ CodeRank enables:
 
 ## 🧩 System Architecture
 
-![System Architecture](System_architecture.png)
+![System Architecture](System_Architecture.png)
 
 
 
